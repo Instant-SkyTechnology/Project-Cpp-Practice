@@ -8,6 +8,8 @@ The software I wrote manages a list of items in a store or warehouse, keeping tr
 
 The purpose of this project was to explore how to implement a practical system using fundamental C++ concepts while learning to handle user input validation, error checking, and persistent storage.
 
+Software Demo video: https://youtu.be/iCm_BqEIs5U 
+
 
 # Development Environment
 
